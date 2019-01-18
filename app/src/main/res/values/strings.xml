@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentProyect</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="botonFr">Button</string>
+    <string name="este_es_un_boton_inutil_como_tu">Este es un Boton inutil como tu.</string>
+    <string name="Sumar">+</string>
+    <string name="bResta">-</string>
+    <string name="bMulti">*</string>
+    <string name="bDivi">/</string>
+</resources>
